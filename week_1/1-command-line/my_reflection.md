@@ -6,31 +6,31 @@ Write your reflection on a document or by hand on the following questions. Keep 
 2. Were you able to successfully use all of the commands?
 3. Can you remember what each of the following does of the top of your head? Write what each does.
 
--`pwd`
+-`pwd`  important
 
--`ls`
+-`ls` important
 
 -`grep`
 
--`mv`
+-`mv` important 
 
--`cd`
+-`cd`  important
 
--`../`
+-`../`  important
 
--`touch`
+-`touch`  important
 
--`mkdir`
+-`mkdir` important
 
 -`echo`
 
 -`less`
 
--`rmdir`
+-`rmdir`  important
 
 -`cat`
 
--`rm`
+-`rm`  important
 
 -`help`
 
